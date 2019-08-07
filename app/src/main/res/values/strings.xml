@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="label_altura">Altura:</string>
+    <string name="lbl_peso">Peso:</string>
+    <string name="button_calcular">Calcular</string>
+    <string name="button_limpar">Limpar</string>
+    <string name="ex_altura">Ex: 1.75 m</string>
+    <string name="ex_peso">Ex: 70 kg</string>
+    <string name="title_imc">Calculadora IMC</string>
+    <string name="return_peso_ideal">Peso Ideal</string>
+    <string name="retur_valor">Valor</string>
+    <string name="return_desenvolvimento">Desenvolvido por Enoch Henrique</string>
+    <string name="sexo">Sexo</string>
+    <string name="label_masculino">Masculino</string>
+    <string name="label_feminino">Feminino</string>
+</resources>
